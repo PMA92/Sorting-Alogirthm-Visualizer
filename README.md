@@ -2,7 +2,7 @@
 A dynamic, interactive React app that visually demonstrates how popular sorting algorithms work using animated vertical bars. Each bar's height corresponds to a value in the array, and the sorting process transforms a randomized bar graph into a neatly sorted visualization from shortest to tallest (or vice versa).
 
 ## Features
-🔁 Real-Time Visualization of the following algorithms:
+Real-Time Visualization of the following algorithms:
 
 Merge Sort
 
