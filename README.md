@@ -1,7 +1,7 @@
-### 'Sorting Algorithm Visualizer'
+### Sorting Algorithm Visualizer
 A dynamic, interactive React app that visually demonstrates how popular sorting algorithms work using animated vertical bars. Each bar's height corresponds to a value in the array, and the sorting process transforms a randomized bar graph into a neatly sorted visualization from shortest to tallest (or vice versa).
 
-## 'Features'
+## Features
 🔁 Real-Time Visualization of the following algorithms:
 
 Merge Sort
@@ -12,7 +12,7 @@ Heap Sort
 
 Bubble Sort
 
-## 'Visual Design:'
+## Visual Design:
 
 Array values are represented as vertical bars with heights proportional to the value.
 
